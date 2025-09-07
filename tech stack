@@ -1,0 +1,9 @@
+| Layer          | Technology                                             |
+| -------------- | ------------------------------------------------------ |
+| Frontend       | React + Vue, TailwindCSS / Material-UI                 |
+| Backend        | Node.js + Express                                      |
+| Database       | MongoDB                                                |
+| Video          | HTML5 / Custom React Player                            |
+| Metadata       | MongoDB + TMDb / OMDb API                              |
+| Hosting        | Local PC / Home Server                                 |
+| Network Access | LAN (and optional port forwarding for external access) |
